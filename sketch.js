@@ -10,7 +10,7 @@ var divisions=[];
 var divisionHeight=300;
 var score=0;
 function setup() {
-  createCanvas(800,800);
+  createCanvas(820,800);
 
  engine = Engine.create();
  world= engine.world;
